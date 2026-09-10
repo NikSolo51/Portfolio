@@ -1,0 +1,8 @@
+{
+  "name": "Dean Tate - Game Developer Portfolio",
+  "description": "1:1 exact match portfolio website of game developer Dean Tate featuring BioShock, Half-Life Alyx, and shipped titles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
